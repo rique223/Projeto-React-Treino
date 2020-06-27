@@ -9,7 +9,7 @@ O radar de devs serve para facilitar a conexão de desenvolvedores de software e
 Em breve
 
 # [EN]
-### omnistack 10 week aplication
+### Omnistack 10 week aplication
 This aplication was coded following the "Semana Omnistack 10.0" crash course from the Rocket Seat channel (Link to the Channel: https://bit.ly/3buXIS7). With this endeavor i tried do deepen my knowledge in the Facebook library for User Interfaces creation, React and to learn about the integrated use of that technology with the MongoDB non-relational Database . For the desktop version of the app ReactJS was used whereas for the mobile version React Native was used and for data storage, MongoDB.
 
 ### What is this app for?
