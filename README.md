@@ -3,7 +3,7 @@
 Esse aplicativo foi codificado seguindo o crash course "Semana Omnistack 10.0" do canal Rocket Seat(Link para o canal: https://bit.ly/3buXIS7). Com essa empreitada, procurei aprofundar meus conhecimentos na biblioteca de criação de User Interfaces do Facebook, React e aprender sobre o uso integrado dessa tecnologia com o banco de dados não-relacional MongoDB. Na versão desktop do aplicativo foi utilizado ReactJS enquanto que na versão mobile React Native e para o armazenamento de dados o banco MongoDB.
 
 ### Para que serve esse app?
-O radar de devs serve para facilitar a conexão de desenvolvedores de software entre si e com clientes (empresas, recrutadores etc), permitindo que o usuário se cadastre no aplicativo e procure por desenvolvedores utilizando como critério as tecnologias utilizadas por eles e geolocalização dos mesmos além de ser mostrado em um mapa interativo para outros usuários que também o podem ver e localizar.
+O radar de devs serve para facilitar a conexão de desenvolvedores de software entre si e com clientes (empresas, recrutadores etc), permitindo que o usuário se cadastre no aplicativo e procure por desenvolvedores utilizando como critério as tecnologias utilizadas por eles e a geolocalização dos mesmos além de ser mostrado em um mapa interativo para outros usuários que também o podem ver e localizar.
 
 ### Como executar esse projeto?
 Em breve
