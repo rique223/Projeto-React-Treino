@@ -12,11 +12,11 @@ O radar de devs serve para facilitar a conexão de desenvolvedores de software e
 3. Use sua CLI favorita e navegue até a pasta backend
 4. Execute o comando 'Yarn dev'
 
-### Para utilizar a versão **WEB** do aplicativo
+### Para executar a versão **WEB** do aplicativo
 1. Navegue até a pasta web
 2. Execute o comando 'Yarn start'
 
-### Para utilizar a versão **MOBILE** do aplicativo
+### Para executar a versão **MOBILE** do aplicativo
 1. Instale o expo na sua máquina e no seu smartphone
 2. Navegue até a pasta mobile
 3. Execute o comando 'Yarn start'
