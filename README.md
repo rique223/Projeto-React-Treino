@@ -43,6 +43,6 @@ The dev radar looks to facilitate the connection between software developers and
 ### Executing the app's **MOBILE** interface
 1. Install expo on both your workstation and your smartphone
 2. Browse the /mobile folder
-3. Execute o comando 'Yarn start' Execute the 'Yarn Start' command
+3. Execute the 'Yarn Start' command
 4. Scan the QR code using the expo smartphone app
 
