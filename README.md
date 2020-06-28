@@ -6,7 +6,7 @@ Esse aplicativo foi codificado seguindo o crash course "Semana Omnistack 10.0" d
 O radar de devs serve para facilitar a conexão de desenvolvedores de software entre si e com clientes (empresas, recrutadores etc), permitindo que o usuário se cadastre no aplicativo e procure por desenvolvedores utilizando como critério as tecnologias utilizadas por eles e a geolocalização dos mesmos além de ser mostrado em um mapa interativo para outros usuários que também o podem ver e localizar.
 
 ## Como executar esse projeto?
-### Para executar o **Backend** do aplicativo
+### Para executar o **BACKEND** do aplicativo
 1. Baixe ou clone esse repositório
 2. Instale o Node.Js, ReactJS, React Native e Yarn(opcional)
 3. Use sua CLI favorita e navegue até a pasta backend
